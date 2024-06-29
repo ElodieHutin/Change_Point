@@ -1,6 +1,6 @@
 ## Projet de détection de points de ruptures
 
-Ce projet consiste à détecter les changements brusques dans divers types de signaux, tels que les signaux univariés, multivariés et musicaux.
+Ce projet consiste à **détecter les changements brusques** dans divers types de signaux, tels que les **signaux univariés, multivariés et musicaux.**
 
 Documentation pour l'exercice 3 : https://centre-borelli.github.io/ruptures-docs/examples/music-segmentation/
 
