@@ -1,4 +1,4 @@
-## Projet Détection de points de ruptures
+## Projet de détection de points de ruptures
 
 Ce projet consiste à détecter les changements brusques dans divers types de signaux, tels que les signaux univariés, multivariés et musicaux.
 
